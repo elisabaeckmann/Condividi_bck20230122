@@ -1,0 +1,85 @@
+Condividi:
+
+  --primary-font: "Dosis", sans-serif;
+  --secondary-font: "Urbanist", sans-serif;
+
+
+prosta diversa font e colori
+BLU -> 
+GREEN -> 
+ORACLE -> 
+AMATIC Bold 700
+Pompiere Regular 400 (per i Maiuscoli)
+
+homepage: 
+ - modificare frase + collegamento bottone READ MORE (Proposta SAMY)
+ - modificare immagine (Lory)
+
+
+Sezione: non il solito Aperitivo (Proposta Elisa):
+	- roba molecolare (Samy passa materiale)
+
+
+Sezione immagini orizzontali:
+	- Samy passa immagini di cocktail e bevande
+
+Sezione Regalo devo capire se fattibile (Elisa)
+
+Sezione Concept:
+	- Modificare immagine (foto) e scrivere 
+
+Sezione menu food: 
+	- Aggiornare
+
+
+
+Sezione Contatti per prenotazioni:
+	- 
+
+Aggiungere sezione Eventi:
+	- dove aggiungere locandine 
+
+Gallery dopo menù food prima di prenotazioni, aggiungere photo gallery su navbar
+
+
+senzione team:
+	- inserire mini descrizione sotto foto ragazzi 
+	- link per facebook, instagram, linkedin di David
+	- link facebook lorenzo non funziona come deve, chiede le credenziali (come mai?)
+
+Sezione Pagamenti:
+- aggiungere apple pay
+- contact less
+
+Recensione google
+
+Samy: 
+- aggiornare le foto
+- condivere link foto + video
+- frase schermata + concept
+
+Lory:
+- fare foto per homepage + foto a davide
+
+
+
+
+Cocktail -> sezione home , classici , caraibici , iced tea
+Analcolici
+Birre -> alla spina, artigianali, in bottiglia
+I calici -> rossi, rosè, bianchi e bollicine
+Shots -> classic , premium, mixed
+le bibete
+
+
+
+
+r, Pepe, Sale</cite></footer>
+                            <h6>MANHATTAN • 9 €</h6>
+                            <footer class="blockquote-footer mt-1 text-white" style="font-size: 0.7rem;">Rye Whiskey, Vermouth Rosso, Angostura</cite></footer>
+                            <h6>BOULEVARDIER • 9 €</h6>
+                            <footer class="blockquote-footer mt-1 text-white" style="font-size: 0.7rem;">Bourbon Whiskey, Vermouth Rosso, Campar</cite></footer>
+                            <h6>ALEXANDER • 7 €</h6>
+                            <footer class="blockquote-footer mt-1 text-white" style="font-size: 0.7rem;">Brandy, Crema di Cacao Scura, Panna</cite></footer>
+                            <h6>GRAPPA SOUR • 6 €</h6>
+                            <footer class="blockquote-footer mt-1 text-white" style="font-size: 0.7rem;">Grappa, Succo di Limone, Sciroppo D'Acero</cite></footer>          
